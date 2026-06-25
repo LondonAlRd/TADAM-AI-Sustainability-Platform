@@ -16,6 +16,8 @@ A digital sustainability platform that connects environmental reporting, communi
 
 </div>
 
+---
+
 ## Demo
 
 A short demo showcasing TADAM’s mobile app, reporting workflow, AI Recycling Coach, sustainability score, admin dashboard, and analytics features.
