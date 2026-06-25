@@ -10,7 +10,7 @@
 A digital sustainability platform that connects environmental reporting, community engagement, analytics, and AI-enabled decision-support.
 </p>
 
-[![IEEE Paper](https://img.shields.io/badge/IEEE-Published%20Paper-00629B?style=for-the-badge)](PUT-YOUR-PAPER-LINK-HERE)
+[![IEEE Paper](https://img.shields.io/badge/IEEE-Published%20Paper-00629B?style=for-the-badge)](https://ieeexplore.ieee.org/abstract/document/11542640)
 ![Status](https://img.shields.io/badge/Status-Academic%20Project-0F766E?style=for-the-badge)
 ![Source Code](https://img.shields.io/badge/Source%20Code-Private-555555?style=for-the-badge)
 
@@ -25,6 +25,24 @@ A digital sustainability platform that connects environmental reporting, communi
 The platform includes a **mobile application** for users and a **web-based admin dashboard** for administrators.
 
 TADAM helps users report environmental issues, track sustainability actions, access recycling guidance, and participate in community activities. Administrators can manage reports, monitor platform performance, analyze engagement, detect duplicate reports, and generate AI-assisted insights.
+
+---
+
+## Problem & Solution
+
+Environmental issues are often reported informally or remain unnoticed, making it difficult for organizations to track, prioritize, and respond to sustainability-related concerns.
+
+TADAM addresses this gap by providing a structured digital platform for environmental reporting, sustainability engagement, analytics, and AI-assisted decision-support.
+
+---
+
+## Project Highlights
+
+* Developed as a graduation project in Computer Information Systems.
+* Designed with both user-facing and admin-facing experiences.
+* Integrated AI-enabled features for recycling guidance, duplicate detection, chatbot support, and admin insights.
+* Published as an IEEE research paper in 2026.
+* Built to support sustainability reporting, engagement, analytics, and decision-making.
 
 ---
 
@@ -55,6 +73,14 @@ TADAM helps users report environmental issues, track sustainability actions, acc
 
 ---
 
+## AI Model
+
+The **AI Recycling Coach** uses a **MobileNetV2-based image classification model** trained through transfer learning and converted to **TensorFlow Lite** for mobile applications.
+
+The model classifies uploaded recycling images and provides recycling category guidance to users.
+
+---
+
 ## Tech Stack
 
 ### Frontend
@@ -68,10 +94,14 @@ TADAM helps users report environmental issues, track sustainability actions, acc
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge)
 ![Firebase Storage](https://img.shields.io/badge/Firebase%20Storage-FFCA28?style=for-the-badge)
 
-### AI & APIs
+### AI & Machine Learning
 
+![MobileNetV2](https://img.shields.io/badge/MobileNetV2-0F766E?style=for-the-badge)
 ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge)
-![AI APIs](https://img.shields.io/badge/AI%20APIs-0F766E?style=for-the-badge)
+![AI APIs](https://img.shields.io/badge/AI%20APIs-333333?style=for-the-badge)
+
+### External APIs
+
 ![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-EB6E4B?style=for-the-badge)
 ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge)
 
@@ -79,13 +109,36 @@ TADAM helps users report environmental issues, track sustainability actions, acc
 
 ## System Modules
 
-| Module              | Description                                                                                                          |
-| ------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| User Mobile App     | Allows users to report environmental issues, track progress, view scores, and engage with sustainability activities. |
-| Admin Dashboard     | Allows administrators to manage reports, users, analytics, AI monitoring, and platform insights.                     |
-| AI Recycling Coach  | Provides recycling guidance based on uploaded images.                                                                |
-| Duplicate Detection | Supports report review by identifying possible duplicate environmental reports.                                      |
-| Analytics Dashboard | Displays platform performance, engagement, sustainability activity, and operational insights.                        |
+| Module                    | Description                                                                                                                                   |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| User Mobile App           | Allows users to report environmental issues, track progress, view scores, and engage with sustainability activities.                          |
+| Admin Dashboard           | Allows administrators to manage reports, users, analytics, AI monitoring, and platform insights.                                              |
+| AI Recycling Coach        | Uses a MobileNetV2-based image classification model converted to TensorFlow Lite to classify recyclable items and provide recycling guidance. |
+| Duplicate Detection       | Supports report review by identifying possible duplicate environmental reports.                                                               |
+| Analytics Dashboard       | Displays platform performance, engagement, sustainability activity, and operational insights.                                                 |
+| Decision-Support Features | Provides administrators with insights that support monitoring, prioritization, and platform management.                                       |
+
+---
+
+## Screenshots
+
+> Screenshots will be added to showcase the mobile app, admin dashboard, analytics, and AI features.
+
+<!-- Example after uploading images to an assets folder:
+
+### Mobile App
+![Mobile App](assets/mobile-app.png)
+
+### Admin Dashboard
+![Admin Dashboard](assets/admin-dashboard.png)
+
+### Analytics Dashboard
+![Analytics Dashboard](assets/analytics-dashboard.png)
+
+### AI Recycling Coach
+![AI Recycling Coach](assets/ai-recycling-coach.png)
+
+-->
 
 ---
 
@@ -93,19 +146,18 @@ TADAM helps users report environmental issues, track sustainability actions, acc
 
 As the **Graduation Project Leader**, I contributed to team coordination, documentation, project progress management, implementation, and the final presentation.
 
-
 ---
 
 ## Publication
 
-[![IEEE Paper](https://img.shields.io/badge/View%20Publication-IEEE-00629B?style=for-the-badge)](PUT-YOUR-PAPER-LINK-HERE)
+[![View Publication](https://img.shields.io/badge/View%20Publication-IEEE-00629B?style=for-the-badge)](https://ieeexplore.ieee.org/abstract/document/11542640)
 
 **TADAM: An Artificial Intelligence Based Sustainability Assessment Framework with Community Engagement**
 *IEEE, 2026*
 
 ---
 
-## Note
+## Repository Note
 
 The source code is kept private due to **academic, team, and research ownership**.
 
