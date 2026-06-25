@@ -52,7 +52,12 @@ The architecture connects the user mobile application and admin dashboard with F
 <p align="center">
   <img src="assets/mobile-onboarding.png" alt="Mobile Onboarding" width="30%">
 </p>
+### User Home Screens
 
+<p align="center">
+  <img src="assets/user-home-score.png" alt="User Home Score" width="32%">
+  <img src="assets/user-home-environmental-status.png" alt="User Home Environmental Status" width="32%">
+</p>
 ---
 
 ## Project Highlights
