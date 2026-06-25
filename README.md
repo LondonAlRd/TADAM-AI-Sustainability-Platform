@@ -70,6 +70,14 @@ The architecture connects the user mobile application and admin dashboard with F
   <img src="assets/eco-impact-history.png" alt="Eco Impact History" width="28%">
 </p>
 
+### AI Recycling Coach
+
+<p align="center">
+  <img src="assets/ai-coach-scan.png" alt="AI Coach Scan" width="28%">
+  <img src="assets/ai-coach-captured.png" alt="AI Coach Captured" width="28%">
+  <img src="assets/ai-coach-result.png" alt="AI Coach Result" width="28%">
+</p>
+
 ---
 
 ## Project Highlights
