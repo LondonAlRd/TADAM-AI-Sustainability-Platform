@@ -62,6 +62,14 @@ The architecture connects the user mobile application and admin dashboard with F
   <img src="assets/report-tracking.png" alt="Report Tracking" width="30%">
 </p>
 
+### Sustainability Score
+
+<p align="center">
+  <img src="assets/sustainability-score.png" alt="Sustainability Score" width="28%">
+  <img src="assets/smart-actions.png" alt="Smart Actions" width="28%">
+  <img src="assets/eco-impact-history.png" alt="Eco Impact History" width="28%">
+</p>
+
 ---
 
 ## Project Highlights
