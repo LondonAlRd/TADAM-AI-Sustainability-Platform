@@ -7,7 +7,7 @@
 <h3>AI-Driven Sustainability Platform</h3>
 
 <p>
-A digital sustainability platform that connects environmental reporting, community engagement, analytics, and AI-enabled decision-support.
+A digital sustainability platform that connects environmental reporting, community engagement, analytics, and enabled decision-support.
 </p>
 
 [![IEEE Paper](https://img.shields.io/badge/IEEE-Published%20Paper-00629B?style=for-the-badge)](https://ieeexplore.ieee.org/abstract/document/11542640)
