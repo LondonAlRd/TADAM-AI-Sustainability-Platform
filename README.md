@@ -55,6 +55,12 @@ The architecture connects the user mobile application and admin dashboard with F
   <img src="assets/user-home-environmental-status.png" alt="User Home Environmental Status" width="32%">
 </p>
 
+### Reporting Workflow
+
+<p align="center">
+  <img src="assets/report-submission.png" alt="Report Submission" width="30%">
+  <img src="assets/report-tracking.png" alt="Report Tracking" width="30%">
+</p>
 
 ---
 
