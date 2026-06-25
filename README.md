@@ -36,6 +36,14 @@ TADAM addresses this gap by providing a structured digital platform for environm
 
 ---
 
+## System Architecture
+
+The architecture connects the user mobile application and admin dashboard with Firebase services, AI components, and external APIs to support reporting, analytics, authentication, media uploads, AI insights, and decision-support features.
+
+![System Architecture](assets/system-architecture.jpg)
+
+---
+
 ## Project Highlights
 
 * Developed as a graduation project in Computer Information Systems.
