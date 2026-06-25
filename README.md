@@ -77,17 +77,18 @@ The architecture connects the user mobile application and admin dashboard with F
   <img src="assets/ai-coach-captured.png" alt="AI Coach Captured" width="28%">
   <img src="assets/ai-coach-result.png" alt="AI Coach Result" width="28%">
 </p>
+### Admin Analytics Dashboard
 
-### Admin Dashboard
-
-<p align="center">
-  <img src="assets/admin-dashboard-overview.png" alt="Admin Dashboard Overview" width="85%">
+<p>
+The admin analytics dashboard provides platform KPIs, action-required indicators, report analytics, sustainability insights, and decision-support metrics.
 </p>
 
-### Admin Insights & Analytics
+<p align="center">
+  <img src="assets/admin-analytics-overview.png" alt="Admin Analytics Overview" width="75%">
+</p>
 
 <p align="center">
-  <img src="assets/admin-insights.png" alt="Admin Insights and Analytics" width="85%">
+  <img src="assets/admin-analytics-dashboard.png" alt="Admin Analytics Dashboard" width="75%">
 </p>
 
 ---
