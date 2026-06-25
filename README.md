@@ -46,53 +46,6 @@ The architecture connects the user mobile application and admin dashboard with F
 
 ---
 
-## Screenshots
-
-### User Home Screens
-
-<p align="center">
-  <img src="assets/user-home-score.png" alt="User Home Score" width="32%">
-  <img src="assets/user-home-environmental-status.png" alt="User Home Environmental Status" width="32%">
-</p>
-
-### Reporting Workflow
-
-<p align="center">
-  <img src="assets/report-submission.png" alt="Report Submission" width="30%">
-  <img src="assets/report-tracking.png" alt="Report Tracking" width="30%">
-</p>
-
-### Sustainability Score
-
-<p align="center">
-  <img src="assets/sustainability-score.png" alt="Sustainability Score" width="28%">
-  <img src="assets/smart-actions.png" alt="Smart Actions" width="28%">
-  <img src="assets/eco-impact-history.png" alt="Eco Impact History" width="28%">
-</p>
-
-### AI Recycling Coach
-
-<p align="center">
-  <img src="assets/ai-coach-scan.png" alt="AI Coach Scan" width="28%">
-  <img src="assets/ai-coach-captured.png" alt="AI Coach Captured" width="28%">
-  <img src="assets/ai-coach-result.png" alt="AI Coach Result" width="28%">
-</p>
-### Admin Analytics Dashboard
-
-<p>
-The admin analytics dashboard provides platform KPIs, action-required indicators, report analytics, sustainability insights, and decision-support metrics.
-</p>
-
-<p align="center">
-  <img src="assets/admin-analytics-overview.png" alt="Admin Analytics Overview" width="75%">
-</p>
-
-<p align="center">
-  <img src="assets/admin-analytics-dashboard.png" alt="Admin Analytics Dashboard" width="75%">
-</p>
-
----
-
 ## Project Highlights
 
 * Developed as a graduation project in Computer Information Systems.
@@ -179,23 +132,49 @@ The model classifies uploaded recycling images and provides recycling category g
 
 ## Screenshots
 
-> Screenshots will be added to showcase the mobile app, admin dashboard, analytics, and AI features.
+### User Home Screens
 
-<!-- Example after uploading images to an assets folder:
+<p align="center">
+  <img src="assets/user-home-score.png" alt="User Home Score" width="32%">
+  <img src="assets/user-home-environmental-status.png" alt="User Home Environmental Status" width="32%">
+</p>
 
-### Mobile App
-![Mobile App](assets/mobile-app.png)
+### Reporting Workflow
 
-### Admin Dashboard
-![Admin Dashboard](assets/admin-dashboard.png)
+<p align="center">
+  <img src="assets/report-submission.png" alt="Report Submission" width="30%">
+  <img src="assets/report-tracking.png" alt="Report Tracking" width="30%">
+</p>
 
-### Analytics Dashboard
-![Analytics Dashboard](assets/analytics-dashboard.png)
+### Sustainability Score
+
+<p align="center">
+  <img src="assets/sustainability-score.png" alt="Sustainability Score" width="28%">
+  <img src="assets/smart-actions.png" alt="Smart Actions" width="28%">
+  <img src="assets/eco-impact-history.png" alt="Eco Impact History" width="28%">
+</p>
 
 ### AI Recycling Coach
-![AI Recycling Coach](assets/ai-recycling-coach.png)
 
--->
+<p align="center">
+  <img src="assets/ai-coach-scan.png" alt="AI Coach Scan" width="28%">
+  <img src="assets/ai-coach-captured.png" alt="AI Coach Captured" width="28%">
+  <img src="assets/ai-coach-result.png" alt="AI Coach Result" width="28%">
+</p>
+
+### Admin Analytics Dashboard
+
+<p>
+The admin analytics dashboard provides platform KPIs, action-required indicators, report analytics, sustainability insights, and decision-support metrics.
+</p>
+
+<p align="center">
+  <img src="assets/admin-analytics-overview.png" alt="Admin Analytics Overview" width="70%">
+</p>
+
+<p align="center">
+  <img src="assets/admin-analytics-dashboard.png" alt="Admin Analytics Dashboard" width="70%">
+</p>
 
 ---
 
@@ -210,6 +189,7 @@ As the **Graduation Project Leader**, I contributed to team coordination, docume
 [![View Publication](https://img.shields.io/badge/View%20Publication-IEEE-00629B?style=for-the-badge)](https://ieeexplore.ieee.org/abstract/document/11542640)
 
 **TADAM: An Artificial Intelligence Based Sustainability Assessment Framework with Community Engagement**
+
 *IEEE, 2026*
 
 ---
