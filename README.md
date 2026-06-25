@@ -91,12 +91,27 @@ The architecture connects the user mobile application and admin dashboard with F
 
 ---
 
-## AI Model
+## AI Model Overview
 
-The **AI Recycling Coach** uses a **MobileNetV2-based image classification model** trained through transfer learning and converted to **TensorFlow Lite** for mobile applications.
+The AI Recycling Coach uses a MobileNetV2-based image classification model trained through transfer learning and converted to TensorFlow Lite for lightweight mobile applications.
 
-The model classifies uploaded recycling images and provides recycling category guidance to users.
+A Flask API was used to serve the model prediction endpoint, allowing uploaded images to be processed and classified before returning the recycling category and guidance to the user.
 
+### Dataset Overview
+
+The model was trained using a recycling image dataset organized into recyclable material categories.
+
+The dataset was prepared by grouping images into class folders, then splitting them into training, validation, and testing sets before model training.
+
+### Model Pipeline
+
+- Used MobileNetV2 as the base model for recycling image classification.
+- Applied transfer learning to adapt the model for recycling-related categories.
+- Prepared the dataset into training, validation, and testing sets.
+- Converted the trained model to TensorFlow Lite.
+- Used a Flask API to handle image prediction requests.
+- Returned the predicted recycling category and guidance to the mobile app.
+  
 ---
 
 ## Tech Stack
@@ -116,6 +131,7 @@ The model classifies uploaded recycling images and provides recycling category g
 
 ![MobileNetV2](https://img.shields.io/badge/MobileNetV2-0F766E?style=for-the-badge)
 ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge)
+![Flask API](https://img.shields.io/badge/Flask%20API-000000?style=for-the-badge)
 ![AI APIs](https://img.shields.io/badge/AI%20APIs-333333?style=for-the-badge)
 
 ### External APIs
@@ -131,7 +147,7 @@ The model classifies uploaded recycling images and provides recycling category g
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | User Mobile App           | Allows users to report environmental issues, track progress, view scores, and engage with sustainability activities.                          |
 | Admin Dashboard           | Allows administrators to manage reports, users, analytics, AI monitoring, and platform insights.                                              |
-| AI Recycling Coach        | Uses a MobileNetV2-based image classification model converted to TensorFlow Lite to classify recyclable items and provide recycling guidance. |
+| AI Recycling Coach | Uses a MobileNetV2-based image classification model converted to TensorFlow Lite, with a Flask API prediction endpoint to classify uploaded images and provide recycling guidance. |
 | Duplicate Detection       | Supports report review by identifying possible duplicate environmental reports.                                                               |
 | Analytics Dashboard       | Displays platform performance, engagement, sustainability activity, and operational insights.                                                 |
 | Decision-Support Features | Provides administrators with insights that support monitoring, prioritization, and platform management.                                       |
