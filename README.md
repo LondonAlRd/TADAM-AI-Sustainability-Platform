@@ -202,7 +202,7 @@ As the **Graduation Project Leader**, I contributed to team coordination, docume
 
 ---
 
-## Repository Note
+## Note
 
 The source code is kept private due to **academic, team, and research ownership**.
 
