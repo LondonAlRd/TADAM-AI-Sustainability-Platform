@@ -46,6 +46,15 @@ The architecture connects the user mobile application and admin dashboard with F
 
 ---
 
+## Screenshots
+
+### Mobile Onboarding
+<p align="center">
+  <img src="assets/mobile-onboarding.png" alt="Mobile Onboarding" width="30%">
+</p>
+
+---
+
 ## Project Highlights
 
 * Developed as a graduation project in Computer Information Systems.
