@@ -78,6 +78,18 @@ The architecture connects the user mobile application and admin dashboard with F
   <img src="assets/ai-coach-result.png" alt="AI Coach Result" width="28%">
 </p>
 
+### Admin Dashboard
+
+<p align="center">
+  <img src="assets/admin-dashboard-overview.png" alt="Admin Dashboard Overview" width="85%">
+</p>
+
+### Admin Insights & Analytics
+
+<p align="center">
+  <img src="assets/admin-insights.png" alt="Admin Insights and Analytics" width="85%">
+</p>
+
 ---
 
 ## Project Highlights
